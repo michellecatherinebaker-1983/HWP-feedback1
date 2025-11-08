@@ -3,7 +3,9 @@ import streamlit as st
 from openai import OpenAI
 
 # Initialize OpenAI client
-client = OpenAI(api_key="YOUR_API_KEY")
+import os
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
 
 st.title("📝 ESL Feedback Assistant")
 st.write("Paste your text below and get feedback on grammar, structure, and clarity.")
