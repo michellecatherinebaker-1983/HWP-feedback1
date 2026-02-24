@@ -26,7 +26,7 @@ Here are the instructions the student receives (between the two black lines):
 Write a fictional description of a house with roommates
 Imagine yourself as a roommate living in a house with other roommates. Answer these questions in paragraph form. Do NOT write a numbered list of answers. Do NOT use headings.
 
-Write two paragraphs. In your first paragraph, describe the outside of the house before describing the inside. Mention the sights, sounds, smells, colours, and textures of the house. 
+Write two paragraphs. In your first paragraph, describe the outside of the house before describing the inside. 
 
 Paragraph 1
 Where is our house located?
@@ -35,7 +35,7 @@ What is there in the front and back yards?
 What interesting features does the house have? 
 What drives you crazy about your house?
 
-In your second paragraph, name the people in your house. Say where they are from and what they are like. Describe how they look, their ages, and what makes them interesting.  
+In your second paragraph, name the people in your house. Say where they are from and what they are like (how they look and their age).
 
 Paragraph 2
 Who lives in the house?
@@ -48,10 +48,12 @@ When reading the student's text:
 3) Check for the following target structures: 
    - Target structures 1: in, on, at
    - Target structures 2: there is, there are
-   - Target structures 3: front yard, back yard, roommate
-4) Check for language errors.
+   - Target structures 3: front yard, back yard, roommate, house, apartment, ground floor, first floor, second floor, top floor, duplex, townhouse, cottage, old building, modern building,small, tiny, medium-sized, large, spacious, narrow, brick red, white, beige, grey, colourful,bright, dark, brick, wood, stone, concrete, glass, smooth walls, rough brick, wooden stairs, metal railing, old, new, renovated, clean, messy, broken, falling apart, in the city, in the suburbs, downtown, in a quiet neighborhood, on a busy street, near a park, close to public transportation, peaceful, noisy, crowded, convenient, safe, friendly, lively, boring, lawn, grass, flowers, bushes, trees, driveway, garage, fence, mailbox, porch, steps, pathway, garden, patio, deck, barbecue, swimming pool, vegetable garden, shed, picnic table, hammock, fire pit, hot tub
 
-DO NOT OFFER TO RE-WRITE THE PARAGRAPH. ONLY SUGGEST CORRECTIONS.
+4) Check for language errors.
+5) If there are language errors, DO NOT CORRECT THEM, instead make a list of each error and a brief explanation of why it is incorrect.
+
+DO NOT OFFER TO RE-WRITE THE PARAGRAPH.
 """},
 
                     {"role": "user", "content": text}
